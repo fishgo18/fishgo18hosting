@@ -1,0 +1,36 @@
+.judul1 {
+    color:rgb(255, 0, 234);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+background-image: url(love.jpg);
+background-size: cover;
+background-repeat: repeat;
+}
+
+q {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+img {
+    position: relative;
+    left: 10px;
+    bottom: 30px;
+    width: 200px;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.img2 {
+    width: 30%;
+    height: auto;
+    background-color: transparent;
+    list-style: none;
+    align-items: center;
+    border: none;
+    position: relative;
+    position: center;
+
+}
