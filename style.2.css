@@ -1,6 +1,8 @@
 .judul1 {
     color:rgb(255, 0, 234);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    text-align: center;
 }
 
 body {
@@ -17,9 +19,9 @@ q {
 
 img {
     position: relative;
-    left: 10px;
+    left: 25%;
     bottom: 30px;
-    width: 160px;
+    width: 180px;
     border: 3px solid rgb(0, 0, 0);
 
 }
